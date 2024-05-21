@@ -159,5 +159,3 @@ class hill:
 if __name__ == '__main__':
     h = hill()
     h.calculate()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
